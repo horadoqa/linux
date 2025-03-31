@@ -1,0 +1,10 @@
+Manipulação de Arquivos
+cat - Exibe o conteúdo de arquivos.
+less - Visualiza arquivos de forma paginada.
+head - Mostra as primeiras linhas de um arquivo.
+tail - Exibe as últimas linhas de um arquivo.
+nano - Editor de texto simples no terminal.
+vim - Editor de texto avançado.
+touch - Cria arquivos vazios.
+wc - Conta palavras, linhas e caracteres em arquivos.
+grep - Pesquisa padrões dentro de arquivos.
